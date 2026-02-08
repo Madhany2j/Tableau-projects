@@ -1,4 +1,4 @@
-**HR Analytics Interactive Dashboard**
+# HR Analytics Interactive Dashboard
 **📊 Project Overview**
 
 This project is a comprehensive HR Analytics Dashboard built to transform raw employee data into actionable business intelligence. The dashboard provides a high-level overview of workforce health, enabling HR professionals to track recruitment, retention, and employee demographics in real-time.
