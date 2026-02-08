@@ -2,9 +2,8 @@
 **📊 Project Overview**
 This project is a comprehensive HR Analytics Dashboard built to transform raw employee data into actionable business intelligence. The dashboard provides a high-level overview of workforce health, enabling HR professionals to track recruitment, retention, and employee demographics in real-time.
 
-📂 Data Schema & DictionaryThe project utilizes a primary HR_Data table containing comprehensive employee records. Each row represents a unique employee, enabling granular analysis across various dimensions.
-
-
+**📂 Data Schema **
+The project utilizes a primary HR_Data table containing comprehensive employee records. Each row represents a unique employee, enabling granular analysis across various dimensions.
 
 **🎯 Key Objectives**
 Monitor Workforce Growth: Track hiring trends over time to manage recruitment cycles.
