@@ -1,4 +1,5 @@
 **Sales & Customer Insights Dashboard (Tableau)**
+
 **📊 Project Overview**
 This project is an end-to-end Tableau BI solution designed to analyze sales performance and customer behavior. It transforms raw transactional data into two distinct, interactive dashboards: one focused on Sales KPIs and the other on Customer Segment Analysis. The project follows professional BI workflows, including requirement gathering, mockup design, data modeling, and high-fidelity dashboard implementation.
 
@@ -28,6 +29,6 @@ Data Modeling: Implemented a Star Schema with a Fact table (Orders) linked to Di
 
 Calculated Fields: Developed custom calculations for Current Year (CY) and Previous Year (PY) metrics, YoY growth percentages, and dynamic status symbols (arrows).
 
-UI/UX Optimization: Utilized dashboard containers and custom background layers to create a modern, structured layout with a "Dark Mode" aesthetic.
+UI/UX Optimization: Utilized dashboard containers and custom background layers to create a modern and structured layout.
 
 Data Cleansing: Performed data type corrections (Geographic roles for regions) and handled null values in the data source layer.
