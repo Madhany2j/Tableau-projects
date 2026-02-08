@@ -1,4 +1,4 @@
-**Sales & Customer Insights Dashboard (Tableau)**
+#**Sales & Customer Insights Dashboard (Tableau)**
 
 **📊 Project Overview**
 
