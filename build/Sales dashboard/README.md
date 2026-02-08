@@ -18,7 +18,8 @@ Top customer rankings by sales and profit.
 
 Histograms showing order frequency and customer distribution.
 
-Interactive Design: * Custom Navigation: Sidebar navigation icons allowing seamless switching between dashboards.
+**Interactive Design:  **
+Custom Navigation: Sidebar navigation icons allowing seamless switching between dashboards.
 
 Dynamic Filters: A collapsible "Show/Hide" filter panel to maximize screen real estate.
 
